@@ -1,0 +1,93 @@
+.progress-bar {
+    width: 70%;
+    height: 13px;
+    background-color: yellow;
+    border-radius: 5px;
+    text-align: justify;
+    line-height: 30px;
+    color: white;
+}
+
+.progress {
+    width: 40%;
+    border: 1px solid black;
+    border-radius: 5px;
+    justify-content: center;
+    align-content: baseline center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.progress-bar2 {
+    width: 35%;
+    height: 13px;
+    border-radius: 5%;
+    background-color: #45a049;
+    border-radius: 5px;
+    line-height: 30px;
+    color: white;
+}
+
+.img2 {
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    background-color: brown;
+    justify-content: center;
+    padding: 3px;
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.progress-bar3 {
+    width: 59%;
+    height: 13px;
+    border-radius: 5%;
+    background-color: coral;
+    border-radius: 5px;
+    line-height: 30px;
+}
+
+.progress-bar4 {
+    width: 87%;
+    height: 13px;
+    border-radius: 5%;
+    background-color: blueviolet;
+    border-radius: 5px;
+    line-height: 30px;
+    color: white;
+}
+
+.divsekil {
+    border-radius: 50%;
+}
+.divsekil {
+    display: flex;
+    justify-content: center;
+}
+
+.progress {
+    display: inline-flex;
+    justify-content: left;
+}
+
+.div-card {
+    background-color: aqua;
+    border-radius: 10%;
+    height: 30%;
+    text-align: center;
+    width: 30%;
+    margin-top: 60px;
+    margin-left: 660px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+}
+
+.span {
+    padding: 5px;
+}
+.info i{
+    justify-content: right;
+    align-content: space-around;
+    text-align: right;
+}
